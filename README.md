@@ -1,7 +1,7 @@
 # 📖 Algorithms in Ruby
 
 List search
-- [Linear Search](https://github.com/leena-h/algorithms-in-ruby/tree/master/list-search)
+- [Linear Search](https://github.com/leena-h/algorithms-in-ruby/blob/master/list-search/linear_search.rb)
 
 Sort
 - [Bubble Sort](https://github.com/leena-h/algorithms-in-ruby/blob/master/sort/bubble_sort.rb)
