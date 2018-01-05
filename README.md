@@ -1,4 +1,4 @@
-# Algorithms in Ruby
+# 📖 Algorithms in Ruby
 
 List search
 - [Linear Search](https://github.com/leena-h/algorithms-in-ruby/tree/master/list-search)
