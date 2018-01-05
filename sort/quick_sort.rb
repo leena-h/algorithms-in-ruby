@@ -3,8 +3,8 @@
 
 # There are many different versions of quickSort that pick pivot in different ways.
 # - Always pick first element as pivot.
-# - Always pick last element as pivot (implemented below)
-# - Pick a random element as pivot.
+# - Always pick last element as pivot
+# - Pick a random element as pivot. (implemented below)
 # - Pick median as pivot.
 
 class QuickSort
