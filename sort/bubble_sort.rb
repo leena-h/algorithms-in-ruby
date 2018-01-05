@@ -17,5 +17,4 @@ class BubbleSort
 end
 
 bs = BubbleSort.new
-results = bs.sort([1,4,5,2,8,7,8,19])
-puts "Sorted list: #{results}"
+puts bs.sort([1,4,5,2,8,7,8,19])
