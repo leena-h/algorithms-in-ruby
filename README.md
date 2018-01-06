@@ -1,4 +1,5 @@
 # 📖 Algorithms in Ruby
+List of algorithms written in Ruby.
 
 List search
 - [Linear Search](https://github.com/leena-io/algorithms-in-ruby/blob/master/list-search/linear_search.rb)
