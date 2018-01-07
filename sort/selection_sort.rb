@@ -16,12 +16,11 @@ class SelectionSort
       for j in (i+1)...n
         if array[j] < array[min]
           temp = array[j]
-          array[j] = array[min]
-          array[min] = temp
+          array[min], array[j] = temp, array[min]
         end
       end
     end
-    a
+    array
   end
 end
 
