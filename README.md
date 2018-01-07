@@ -9,5 +9,5 @@ List of algorithms written in Ruby.
 - Heap Sort
 - [Insertion Sort](https://github.com/leena-io/algorithms-in-ruby/blob/master/sort/insertion_sort.rb)
 - [Merge Sort](https://github.com/leena-io/algorithms-in-ruby/blob/master/sort/merge_sort.rb)
-- Selection Sort
+- [Selection Sort](https://github.com/leena-io/algorithms-in-ruby/blob/master/sort/selection_sort.rb)
 - [Quick Sort](https://github.com/leena-io/algorithms-in-ruby/blob/master/sort/quick_sort.rb)
